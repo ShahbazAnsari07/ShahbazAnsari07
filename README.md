@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java(DSA) and React.**
 
-- 📫 How to reach me **shahbaz.ansari30055@gmail.com**
+- 📫 How to reach me **shahbaz.ansariiexe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
