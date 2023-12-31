@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahbazansari07" alt="shahbazansari07" /></a> </p>
 
-- 🌱 I’m currently learning **Java(DSA) and React.**
+- 🌱 I’m currently learning **Data Structure and Algorithms with JAVA.**
 
 - 📫 How to reach me **shahbaz.ansariiexe@gmail.com**
 
