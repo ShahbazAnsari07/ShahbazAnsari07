@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm SHAHBAZ ANSARI</h1>
-<h3 align="center">Front End Developer</h3>
+<h3 align="center">Student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahbazansari07" alt="shahbazansari07" /></a> </p>
 
