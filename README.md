@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahbazansari07" alt="shahbazansari07" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms with JAVA.**
+- 🌱 I’m currently learning **FUll STACK DEVELOPMENT.**
 
 - 📫 How to reach me **shahbaz.ansariiexe@gmail.com**
 
