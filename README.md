@@ -8,7 +8,6 @@ Email Me 👉 ✉️ **shahbaz.ansariiexe@gmail.com** For Collaboration/Project 
 - 👯 **I’m looking to collaborate on:** MERN Projects and Frontend Projects
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me: *shahbaz.ansariiexe@gmail.com* 
-- 😄 **Pronouns:** Shahbaz
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
   
 ## 🌐 Socials:
