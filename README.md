@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Shahbaz Ansari
+**A passionate FrontEnd Developer || IT Executive **
 
+Email Me 👉 ✉️ **shahbaz.ansariiexe@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** MERN Projects
+- 🌱 **I’m currently learning:** MERN Stack
+- 👯 **I’m looking to collaborate on:** MERN Projects and Frontend Projects
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:*shahbaz.ansariiexe@gmail.com* 
+- 😄 **Pronouns:** Shahbaz
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shahbaz_7_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shahbaz Ansari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahbaz.ansariiexe@gmail.com) 
 
