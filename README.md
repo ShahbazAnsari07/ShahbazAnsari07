@@ -9,6 +9,9 @@ Email Me 👉 ✉️ **shahbaz.ansariiexe@gmail.com** For Collaboration/Project 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me: *shahbaz.ansariiexe@gmail.com* 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ShahbazAnsari07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shahbaz_7_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shahbaz Ansari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahbaz.ansariiexe@gmail.com) 
@@ -24,9 +27,6 @@ Email Me 👉 ✉️ **shahbaz.ansariiexe@gmail.com** For Collaboration/Project 
 ![](https://github-readme-stats.vercel.app/api?username=ShahbazAnsari07&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShahbazAnsari07&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahbazAnsari07&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShahbazAnsari07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
